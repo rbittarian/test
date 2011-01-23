@@ -1,1 +1,1 @@
-Testing out github ROR setup [* ROR *]
+Github ROR setup [*ROR*]
